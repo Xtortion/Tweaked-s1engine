@@ -6,7 +6,7 @@ A fully tweaked s1engine
 - Pretty S1engine
 
 Place one of them here: TERA\Client\S1Game\Config
-And make 100% sure they are on read only after replacing your current one.
+__And make 100% sure they are on read only after replacing your current one.__
 
 All of 'm are tweaked engines. The FPS engines are highly tweaked ones for maximum FPS. I highly recommend using the "FPS S1Engine". If you use this S1Engine and your class is making different sounds than it's supposed to, use the fixed one.
 
