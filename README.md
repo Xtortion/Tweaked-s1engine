@@ -8,6 +8,7 @@ A fully tweaked s1engine
 Place one of them here: TERA\Client\S1Game\Config.
 
 __And make 100% sure they are on read only after replacing your current one.__
+
 _You can make your file read only by right clicking the S1engine file, click on properties and then down below you'll see "Read only".
 Tick that on and then apply these changes._
 
